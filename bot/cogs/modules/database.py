@@ -5,14 +5,7 @@ from bot.cogs.modules.bin_checker import bin_checker
 
 database_name = 'database.db'
 
-if platform.system() == 'Linux':
-    cmd = f"sudo fuser -k {database_name}"
-    os.system(cmd)
-
-elif platform.system() == 'Windows':
-    cmd = f'for /f "skip=4 tokens=3" %i in ("handle {database_name}\") do taskkill /pid %i'
-    os.system(cmd)
-
+# Apaguei os ifs do Linux/Windows aqui
 
 async def get_conn():
     conn = await aiosqlite.connect(f'{database_name}')
