@@ -1,0 +1,16 @@
+﻿Aprovada ✓ 4854640212673547|01|28|400 ✷ Código: 1045 - Autorização Negada ✷
+Aprovada ✓ 4854640212663050|01|28|438 ✷ Código: 1016 - Autorização Negada ✷
+Aprovada ✔ ➜ 4984319048001560|07|2028|328 ➜ VISA BUSINESS BANCO DO BRASIL S.A. CREDIT (BR) ➜ CVV incorreto ➜ 35 Seg ➜ @ectasycenter
+Aprovada ✓ 4984319048267344|07|28|388 ✷ Código: 1016 - Autorização Negada ✷
+Aprovada ✓ 4984319048154047|07|28|618 ✷ Código: 1045 - Autorização Negada ✷
+Aprovada ✓ 4984319048372482|07|28|660 ✷ Código: 1045 - Autorização Negada ✷
+Aprovada ✓ 4854640212661575|01|28|221 ✷ Código: 1045 - Autorização Negada ✷
+Aprovada ✔ ➜ 4984078127640421|07|2024|160 ➜ VISA GOLD BANCO DO BRASIL S.A. CREDIT (BR) ➜ CVV incorreto ➜ 32 Seg ➜ @ectasycenter
+Aprovada ✓ 4854640212680872|01|28|767 ✷ Código: 1016 - Autorização Negada ✷
+Aprovada ✓ 4854640212654604|01|28|653 ✷ Código: 1045 - Autorização Negada ✷
+Aprovada ✓ 4536001103225408|02|28|455 ✷ Código: 1045 - Autorização Negada ✷
+Aprovada ✓ 4536001103638105|02|28|700 ✷ Código: 1045 - Autorização Negada ✷
+Aprovada ✓ 4078430107677476|11|26|145 ✷ Código: 1045 - Autorização Negada ✷
+Aprovada ✔ ➜ 4078430107241034|11|2026|580 ➜ VISA GOLD MERCADO PAGO CREDIT (BR) ➜ CVV incorreto ➜ 24 Seg ➜ @ectasycenter
+Aprovada ✔ ➜ 4078430107374843|11|2026|360 ➜ VISA GOLD MERCADO PAGO CREDIT (BR) ➜ CVV incorreto ➜ 25 Seg ➜ @ectasycenter
+

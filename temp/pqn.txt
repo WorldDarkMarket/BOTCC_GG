@@ -1,0 +1,5 @@
+﻿#Aprovada ➜ 4984010059522707|11|2027|450 ➜ |VISA|CREDIT|BR ➜ [retorno: not-authorized - MOP CIELO3_BR: N7 - Transação não autorizada. Código de segurança inválido.] ELITE DAS GG
+#Aprovada ➜ 4984010059552654|11|2027|736 ➜ |VISA|CREDIT|BR ➜ [retorno: not-authorized - MOP CIELO3_BR: N7 - Transação não autorizada. Código de segurança inválido.] ELITE DAS GG
+#Aprovada ➜ 4984010059553413|11|2027|067 ➜ |VISA|CREDIT|BR ➜ [retorno: not-authorized - MOP CIELO3_BR: N7 - Transação não autorizada. Código de segurança inválido.] ELITE DAS GG
+#Aprovada ➜ 4984010059605056|11|2027|781 ➜ |VISA|CREDIT|BR ➜ [retorno: not-authorized - MOP CIELO3_BR: N7 - Transação não autorizada. Código de segurança inválido.] ELITE DAS GG
+#Aprovada ➜ 4984010059472481|11|2027|006 ➜ |VISA|CREDIT|BR ➜ [retorno: not-authorized - MOP CIELO3_BR: N7 - Transação não autorizada. Código de segurança inválido.] ELITE DAS GG

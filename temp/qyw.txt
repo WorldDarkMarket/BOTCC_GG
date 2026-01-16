@@ -1,0 +1,7 @@
+﻿#Aprovada 4854641252720115|08|2028|471 | ReturnCode: N7 – Autorizacao negada @mexicano121
+#Aprovada 4854641252776638|08|2028|733 | ReturnCode: N7 – Autorizacao negada @mexicano121
+#Aprovada 4854641252715834|08|2028|582 | ReturnCode: N7 – Autorizacao negada @mexicano121
+#Aprovada 4854641252761606|08|2028|386 | ReturnCode: N7 – Autorizacao negada @mexicano121
+#Aprovada 4854641252713631|08|2028|033 | ReturnCode: N7 – Autorizacao negada @mexicano121
+#Aprovada 4854641252713185|08|2028|326 | ReturnCode: N7 – Autorizacao negada @mexicano121
+Reprovada 5485739579520814|12|2026|147 | ReturnCode: 12 – Autorizacao negada @mexicano121

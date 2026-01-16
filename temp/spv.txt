@@ -1,0 +1,157 @@
+﻿provada -> 4854640208042608|01|2028|120 Bandeira: 485464 | Retorno: security code is incorrect.| Tempo de Resposta: (24 SEG) | Tools
+
+Aprovada -> 4854640208708406|01|2028|060 Bandeira: 485464 | Retorno: security code is incorrect.| Tempo de Resposta: (29 SEG) | Tools
+
+Aprovada -> 4854640208051575|01|2028|152 Bandeira: 485464 | Retorno: security code is incorrect.| Tempo de Resposta: (28 SEG) | Tools
+HOPE, [05/04/2023 21:32]
+Allbins Â» 4854640208344111 Â» 01 Â» 2028 Â» 535 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 21:33]
+Allbins Â» 4854640208381121 Â» 01 Â» 2028 Â» 148 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 21:33]
+Allbins Â» 4854640208010431 Â» 01 Â» 2028 Â» 008 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 21:33]
+Allbins Â» 4854640208323685 Â» 01 Â» 2028 Â» 706 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 21:34]
+Allbins Â» 4854640208040107 Â» 01 Â» 2028 Â» 251 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 21:36]
+Allbins Â» 4854640208710352 Â» 01 Â» 2028 Â» 513 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 21:43]
+Allbins Â» 4854640208706608 Â» 01 Â» 2028 Â» 823 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 21:44]
+Allbins Â» 4854640208374605 Â» 01 Â» 2028 Â» 817 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 21:47]
+Allbins Â» 4854640208378317 Â» 01 Â» 2028 Â» 366 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 21:47]
+Allbins Â» 4854640208036576 Â» 01 Â» 2028 Â» 011 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 21:48]
+Allbins Â» 4854640208343170 Â» 01 Â» 2028 Â» 012 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 21:49]
+Allbins Â» 4854640208732778 Â» 01 Â» 2028 Â» 386 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:01]
+Allbins Â» 4854640208001877 Â» 01 Â» 2028 Â» 482 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:01]
+Allbins Â» 4854640208036824 Â» 01 Â» 2028 Â» 428 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:01]
+Allbins Â» 4854640208381451 Â» 01 Â» 2028 Â» 226 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:18]
+Allbins Â» 4854640208733016 Â» 01 Â» 2028 Â» 857 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:19]
+Allbins Â» 4854640208714453 Â» 01 Â» 2028 Â» 436 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:20]
+Allbins Â» 4854640208382707 Â» 01 Â» 2028 Â» 557 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:21]
+Allbins Â» 4854640208731705 Â» 01 Â» 2028 Â» 202 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:22]
+Allbins Â» 4854640208725681 Â» 01 Â» 2028 Â» 015 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:25]
+Allbins Â» 4854640208056285 Â» 01 Â» 2028 Â» 465 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:25]
+Allbins Â» 4854640208040222 Â» 01 Â» 2028 Â» 705 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:28]
+Allbins Â» 4854640208041428 Â» 01 Â» 2028 Â» 361 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:43]
+Allbins Â» 4854640208711632 Â» 01 Â» 2028 Â» 600 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:43]
+Allbins Â» 4854640208700544 Â» 01 Â» 2028 Â» 346 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:49]
+Allbins Â» 4854640208000762 Â» 01 Â» 2028 Â» 442 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:49]
+Allbins Â» 4854640208043168 Â» 01 Â» 2028 Â» 643 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:51]
+Allbins Â» 4854640208722225 Â» 01 Â» 2028 Â» 748 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:52]
+Allbins Â» 4854640208370447 Â» 01 Â» 2028 Â» 881 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:53]
+Allbins Â» 4854640208716235 Â» 01 Â» 2028 Â» 323 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:56]
+Allbins Â» 4854640208330847 Â» 01 Â» 2028 Â» 822 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:58]
+Allbins Â» 4854640208711780 Â» 01 Â» 2028 Â» 216 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:58]
+Allbins Â» 4854640208735854 Â» 01 Â» 2028 Â» 182 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:59]
+Allbins Â» 4854640208377822 Â» 01 Â» 2028 Â» 137 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 22:59]
+Allbins Â» 4854640208701203 Â» 01 Â» 2028 Â» 424 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 23:00]
+Allbins Â» 4854640208047201 Â» 01 Â» 2028 Â» 411 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 23:02]
+Allbins Â» 4854640208728446 Â» 01 Â» 2028 Â» 808 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 23:05]
+Allbins Â» 4854640208062184 Â» 01 Â» 2028 Â» 250 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 23:07]
+Allbins Â» 4854640208065724 Â» 01 Â» 2028 Â» 735 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 23:10]
+Allbins Â» 4854640208722720 Â» 01 Â» 2028 Â» 681 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 23:10]
+Allbins Â» 4854640208330466 Â» 01 Â» 2028 Â» 604 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 23:11]
+Allbins Â» 4854640208010530 Â» 01 Â» 2028 Â» 334 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 23:12]
+Allbins Â» 4854640208722241 Â» 01 Â» 2028 Â» 186 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 23:26]
+Allbins Â» 4854640208728610 Â» 01 Â» 2028 Â» 163 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 23:27]
+Allbins Â» 4854640208712226 Â» 01 Â» 2028 Â» 435 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 23:31]
+Allbins Â» 4854640208351017 Â» 01 Â» 2028 Â» 460 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 23:33]
+Allbins Â» 4854640208351827 Â» 01 Â» 2028 Â» 737 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 23:40]
+Allbins Â» 4854640208068025 Â» 01 Â» 2028 Â» 468 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 23:42]
+Allbins Â» 4854640208051278 Â» 01 Â» 2028 Â» 241 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 23:45]
+Allbins Â» 4854640208050858 Â» 01 Â» 2028 Â» 832 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER
+
+HOPE, [05/04/2023 23:50]
+Allbins Â» 4854640208720146 Â» 01 Â» 2028 Â» 765 | RETORNO: Your card's security code is incorrect. | Bin: VISA BANCO DO BRASIL, S.A. CREDIT CLASSIC BRAZIL Â» AZALYAX CENTER

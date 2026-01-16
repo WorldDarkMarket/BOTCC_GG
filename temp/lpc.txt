@@ -1,0 +1,35 @@
+﻿
+[#Aprovada] ➜ 4854640208453367|01|2028|720 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (42.18s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+
+[#Aprovada] ➜ 4854640208013161|01|2028|314 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (29.63s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+
+[#Aprovada] ➜ 4854640208086373|01|2028|223 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (30.48s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+
+[#Aprovada] ➜ 4854640208211807|01|2028|575 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (29.30s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+[#Aprovada] ➜ 4854640208734873|01|2028|018 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (32.87s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+
+[#Aprovada] ➜ 4854640208516155|01|2028|020 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (46.85s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+
+[#Aprovada] ➜ 4854640208683773|01|2028|156 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (45.88s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+
+[#Aprovada] ➜ 4854640208730186|01|2028|748 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (29.30s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+[#Aprovada] ➜ 4854640208707465|01|2028|540 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (29.73s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+
+[#Aprovada] ➜ 4854640208643074|01|2028|680 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (26.67s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+
+[#Aprovada] ➜ 4854640208055303|01|2028|484 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (39.96s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+
+[#Aprovada] ➜ 4854640208311136|01|2028|572 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (43.49s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+
+[#Aprovada] ➜ 4854640208224354|01|2028|726 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (33.81s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+[#Aprovada] ➜ 4854640208012601|01|2028|556 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (43.25s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+
+[#Aprovada] ➜ 4854640208654204|01|2028|265 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (44.67s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+
+[#Aprovada] ➜ 4854640208118473|01|2028|145 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (29.09s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+
+[#Aprovada] ➜ 4854640208880718|01|2028|067 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (39.34s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+
+[#Aprovada] ➜ 4854640208671018|01|2028|036 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (43.34s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by: HARVEL-CENTER
+
+[#Aprovada] ➜ 4854640208100786|01|2028|828 ➜ VISA - BANCO DO BRASIL, S.A. - CREDIT - CLASSIC - BR ➜ (26.65s) ➜ [ N7 - Transação não autorizada. Código de segurança inválido ] ➜ by

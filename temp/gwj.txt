@@ -1,0 +1,287 @@
+﻿Disney CHK, [02/04/2023 14:31]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212377727|01|2028|220
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 14:36]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212388716|01|2028|560
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 14:39]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212124202|01|2028|810
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 14:39]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212658738|01|2028|743
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 14:41]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212388138|01|2028|870
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 14:42]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212680450|01|2028|471
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 14:48]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212681441|01|2028|003
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 14:50]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212134607|01|2028|137
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 14:56]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212122164|01|2028|162
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 15:02]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212406781|01|2028|647
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 15:11]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212655726|01|2028|157
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 15:12]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212402764|01|2028|158
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 15:17]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212415717|01|2028|256
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 15:36]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212655684|01|2028|211
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 15:39]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212407672|01|2028|425
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 15:41]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212666418|01|2028|748
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 15:44]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212125654|01|2028|266
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 15:50]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212677225|01|2028|027
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 15:53]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212380804|01|2028|626
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 15:55]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212382131|01|2028|781
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 15:56]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212115432|01|2028|604
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 15:58]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212405114|01|2028|355
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 16:03]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212403135|01|2028|272
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 16:05]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212408332|01|2028|412
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 16:05]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212657623|01|2028|031
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 16:14]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4854640212106068|01|2028|663
+ └🏳️ Bandeira: 4854641
+
+Disney CHK, [02/04/2023 16:37]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4006340337447243|11|2029|888
+ └🏳️ Bandeira: 4006341
+
+Disney CHK, [02/04/2023 16:38]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4006340337424036|11|2029|024
+ └🏳️ Bandeira: 4006341
+
+Disney CHK, [02/04/2023 16:38]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4006340337465732|11|2029|807
+ └🏳️ Bandeira: 4006341
+
+Disney CHK, [02/04/2023 16:38]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4006340337431320|11|2029|172
+ └🏳️ Bandeira: 4006341
+
+Disney CHK, [02/04/2023 16:39]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4006340337447086|11|2029|807
+ └🏳️ Bandeira: 4006341
+
+Disney CHK, [02/04/2023 16:39]
+🔔 Logs do Histórico:
+ ├👤 User: ifood
+ ├💰 Saldo: 1074.45
+ ├🛒 Checker: ALLBINS V2
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 4006340337487462|11|2029|683
+ └🏳️ Bandeira: 4006341

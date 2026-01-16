@@ -1,0 +1,15 @@
+#Aprovada -> 6505070065254161|03|2028|886 | Retorno: Transação autorizada com sucesso. => @Megahunderr
+#Aprovada -> 6505070065220857|03|2028|026 | Retorno: Transação autorizada com sucesso. => @Megahunderr
+#Aprovada -> 6505070065254625|03|2028|371 | Retorno: Transação autorizada com sucesso. => @Megahunderr
+#Aprovada -> 6505070065286288|03|2028|148 | Retorno: Transação autorizada com sucesso. => @Megahunderr
+#Aprovada -> 6505070065231011|03|2028|880 | Retorno: Transação autorizada com sucesso. => @Megahunderr
+#Aprovada -> 6505070065224172|03|2028|251 | Retorno: Transação autorizada com sucesso. => @Megahunderr
+#Aprovada -> 6505070065243586|03|2028|453 | Retorno: Transação autorizada com sucesso. => @Megahunderr
+#Aprovada -> 6505070065220824|03|2028|642 | Retorno: Transação autorizada com sucesso. => @Megahunderr
+#Aprovada -> 6505070065228421|03|2028|888 | Retorno: Transação autorizada com sucesso. => @Megahunderr
+#Aprovada -> 6505070065238602|03|2028|537 | Retorno: Transação autorizada com sucesso. => @Megahunderr
+#Aprovada -> 6505070065220303|03|2028|454 | Retorno: Transação autorizada com sucesso. => @Megahunderr
+#Aprovada -> 6505070065267650|03|2028|211 | Retorno: Transação autorizada com sucesso. => @Megahunderr
+#Aprovada -> 6505070065264236|03|2028|208 | Retorno: Transação autorizada com sucesso. => @Megahunderr
+#Aprovada -> 6505070065221335|03|2028|186 | Retorno: Transação autorizada com sucesso. => @Megahunderr
+#Aprovada -> 6505070065277733|03|2028|841 | Retorno: Transação autorizada com sucesso. => @Megahunderr

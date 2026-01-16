@@ -1,0 +1,27 @@
+{
+    "default": "external",
+
+    "external": " https://azkabancenter.online/azkabandev.php?usuario=castiel&senha=lucas157&testador=2-preauth&lista={cc}",
+    "iugu": {"account_id": "",
+        "token": ""
+    },
+    "mercadopago": {
+        "token": ""
+    },
+    "getnet": {
+        "client_id": "",
+        "client_secret": "",
+        "seller_id": ""
+    },
+    "cielo": {
+        "cieloMerchantId": "",
+        "cieloMerchantKey": ""
+    },
+    "pagarme": {
+        "api_key": ""
+    },
+    "erede": {
+        "pv": "",
+        "token": ""
+    }
+}

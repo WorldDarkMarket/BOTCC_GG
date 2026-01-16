@@ -1,0 +1,14 @@
+﻿#Aprovada ➜ 4984010059625450|11|2027|310 ➜ |VISA|CREDIT|BR  ➜ [retorno: Transação Capturada com Sucesso] ELITE DAS GG
+#Aprovada ➜ 4984010059830225|11|2027|588 ➜ |VISA|CREDIT|BR  ➜ [retorno: Transação Capturada com Sucesso] ELITE DAS GG
+#Aprovada ➜ 4984010059063645|11|2027|777 ➜ |VISA|CREDIT|BR  ➜ [retorno: Transação Capturada com Sucesso] ELITE DAS GG
+#Aprovada ➜ 4984010059466681|11|2027|622 ➜ |VISA|CREDIT|BR  ➜ [retorno: Transação Capturada com Sucesso] ELITE DAS GG
+#Aprovada ➜ 4984010059030131|11|2027|358 ➜ |VISA|CREDIT|BR  ➜ [retorno: Transação Capturada com Sucesso] ELITE DAS GG
+#Aprovada ➜ 4984010059767377|11|2027|631 ➜ |VISA|CREDIT|BR  ➜ [retorno: Transação Capturada com Sucesso] ELITE DAS GG
+#Aprovada ➜ 4984010059742586|11|2027|004 ➜ |VISA|CREDIT|BR  ➜ [retorno: Transação Capturada com Sucesso] ELITE DAS GG
+#Aprovada ➜ 4011789867303114|10|2024|631 ➜ |ELO|CREDIT|BR  ➜ [retorno: Transação Capturada com Sucesso] ELITE DAS GG
+#Aprovada ➜ 4011789867364645|10|2024|880 ➜ |ELO|CREDIT|BR  ➜ [retorno: Transação Capturada com Sucesso] ELITE DAS GG
+#Aprovada ➜ 4011789867303627|10|2024|442 ➜ |ELO|CREDIT|BR  ➜ [retorno: Transação Capturada com Sucesso] ELITE DAS GG
+#Aprovada ➜ 4011789867334507|10|2024|175 ➜ |ELO|CREDIT|BR  ➜ [retorno: Transação Capturada com Sucesso] ELITE DAS GG
+#Aprovada ➜ 4011789867317684|10|2024|712 ➜ |ELO|CREDIT|BR  ➜ [retorno: Transação Capturada com Sucesso] ELITE DAS GG
+#Aprovada ➜ 4011789867333012|10|2024|166 ➜ |ELO|CREDIT|BR  ➜ [retorno: Transação Capturada com Sucesso] ELITE DAS GG
+#Aprovada ➜ 4011789867317304|10|2024|530 ➜ |ELO|CREDIT|BR  ➜ [retorno: Transação Capturada com Sucesso] ELITE DAS GG

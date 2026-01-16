@@ -1,0 +1,17 @@
+﻿✔ Aprovada ➔ 4078430102146584|11|2026|654 ➜ VISA CREDIT UNITED STATES ➜ Transacao Autorizado [ ✅ ] 21 Seg
+✔ Aprovada ➔ 4078430108784487|11|2026|772 ➜ VISA CREDIT UNITED STATES ➜ Transacao Autorizado [ ✅ ] 22 Seg
+✔ Aprovada ➔ 4078430100101565|11|2026|314 ➜ VISA CREDIT UNITED STATES ➜ Transacao Autorizado [ ✅ ] 24 Seg
+✔ Aprovada ➔ 4078430102322870|11|2026|887 ➜ VISA CREDIT UNITED STATES ➜ Transacao Autorizado [ ✅ ] 25 Seg
+✔ Aprovada ➔ 4078430107208108|11|2026|237 ➜ VISA CREDIT UNITED STATES ➜ Transacao Autorizado [ ✅ ] 24 Seg
+✔ Aprovada ➔ 4078430100156833|11|2026|311 ➜ VISA CREDIT UNITED STATES ➜ Transacao Autorizado [ ✅ ] 23 Seg
+✔ Aprovada ➔ 4078430103066252|11|2026|572 ➜ VISA CREDIT UNITED STATES ➜ Transacao Autorizado [ ✅ ] 22 Seg
+✔ Aprovada ➔ 4078430106632274|11|2026|017 ➜ VISA CREDIT UNITED STATES ➜ Transacao Autorizado [ ✅ ] 20 Seg
+✔ Aprovada ➔ 4078430106676826|11|2026|024 ➜ VISA CREDIT UNITED STATES ➜ Transacao Autorizado [ ✅ ] 22 Seg
+✔ Aprovada ➔ 4078430104440142|11|2026|207 ➜ VISA CREDIT UNITED STATES ➜ Transacao Autorizado [ ✅ ] 21 Seg
+✔ Aprovada ➔ 4078430104413263|11|2026|047 ➜ VISA CREDIT UNITED STATES ➜ Transacao Autorizado [ ✅ ] 20 Seg
+✔ Aprovada ➔ 4078430107168773|11|2026|338 ➜ VISA CREDIT UNITED STATES ➜ Transacao Autorizado [ ✅ ] 20 Seg
+✔ Aprovada ➔ 4078430106761487|11|2026|261 ➜ VISA CREDIT UNITED STATES ➜ Transacao Autorizado [ ✅ ] 20 Seg
+✔ Aprovada ➔ 4078430101568465|11|2026|508 ➜ VISA CREDIT UNITED STATES ➜ Transacao Autorizado [ ✅ ] 21 Seg
+Reprovada ➜ 4078430101348702|11|2026|030 ➜ VISA CREDIT UNITED STATES ➜ Cartão ja testado resultado: Aprovado! ➜ 0 Seg
+Reprovada ➜ 4078430100785581|11|2026|117 ➜ VISA CREDIT UNITED STATES ➜ Cartão ja testado resultado: Aprovado! ➜ 0 Seg
+Reprovada ➜ 4078430108352103|11|2026|556 ➜ VISA CREDIT UNITED STATES ➜ Cartão ja testado resultado: Aprovado! ➜ 0 Seg

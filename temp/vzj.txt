@@ -1,0 +1,53 @@
+﻿Aprovada -> 4984319048887372|08|2026|672 Bandeira: 498431 | Retorno: security code is incorrect.| Tempo de Resposta: (16 SEG) | Tools
+
+Aprovada -> 4984319048816611|08|2026|380 Bandeira: 498431 | Retorno: security code is incorrect.| Tempo de Resposta: (16 SEG) | Tools
+
+Aprovada -> 4984319048882860|08|2026|480 Bandeira: 498431 | Retorno: security code is incorrect.| Tempo de Resposta: (16 SEG) | Tools
+
+Aprovada -> 4984319048874453|08|2026|624 Bandeira: 498431 | Retorno: security code is incorrect.| Tempo de Resposta: (28 SEG) | Tools
+
+Aprovada -> 4984319048880575|08|2026|418 Bandeira: 498431 | Retorno: security code is incorrect.| Tempo de Resposta: (25 SEG) | Tools
+Aprovada 5136300282588243|01|2030|160 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282027721|01|2030|177 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282026400|01|2030|120 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282823186|01|2030|708 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282760081|01|2030|560 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282447770|01|2030|458 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282771872|01|2030|457 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282224476|01|2030|864 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282134808|01|2030|080 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282180082|01|2030|828 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282481878|01|2030|028 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282424647|01|2030|215 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282168384|01|2030|000 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282302108|01|2030|640 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282384320|01|2030|834 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282732627|01|2030|608 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282086735|01|2030|564 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282884808|01|2030|165 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282421460|01|2030|003 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282714807|01|2030|855 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282514710|01|2030|534 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282845742|01|2030|760 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282841402|01|2030|238 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282577634|01|2030|261 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282751841|01|2030|648 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282617281|01|2030|182 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282047240|01|2030|247 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282807148|01|2030|404 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282850585|01|2030|526 -> (CARTÃO EXISTENTE)
+Aprovada 5136300282786714|01|2030|611 -> (CARTÃO EXISTENTE)
+
+Aprovada -> 4984319048877720|08|2026|772 Bandeira: 498431 | Retorno: security code is incorrect.| Tempo de Resposta: (29 SEG) | Tools
+
+Aprovada -> 4984319048828574|08|2026|288 Bandeira: 498431 | Retorno: security code is incorrect.| Tempo de Resposta: (21 SEG) | Tools
+
+Aprovada -> 4984319048800185|08|2026|305 Bandeira: 498431 | Retorno: security code is incorrect.| Tempo de Resposta: (23 SEG) | Tools
+
+Aprovada -> 4984319048884817|08|2026|312 Bandeira: 498431 | Retorno: security code is incorrect.| Tempo de Resposta: (27 SEG) | Tools
+
+Aprovada -> 4984319048850875|08|2026|346 Bandeira: 498431 | Retorno: security code is incorrect.| Tempo de Resposta: (28 SEG) | Tools
+
+Aprovada -> 4984319048878520|08|2026|322 Bandeira: 498431 | Retorno: security code is incorrect.| Tempo de Resposta: (27 SEG) | Tools
+
+Aprovada -> 4984319048884122|08|2026|602 Bandeira: 498431 | Retorno: security code is incorrect.| Tempo de Resposta: (29 SEG) | Tools

@@ -1,0 +1,62 @@
+﻿Disney CHK, [10/05/2023 15:09]
+🔔 Logs do Histórico:
+ ├👤 User: root
+ ├💰 Saldo: 
+ ├🛒 Checker: ALLBINS MASTER-BB
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 5485739579573748|12|2026|056
+ └🏳️ Bin: 1
+
+Disney CHK, [10/05/2023 15:26]
+🔔 Logs do Histórico:
+ ├👤 User: root
+ ├💰 Saldo: 
+ ├🛒 Checker: ALLBINS MASTER-BB
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 5485739579521440|12|2026|342
+ └🏳️ Bin: 1
+
+Disney CHK, [10/05/2023 15:27]
+🔔 Logs do Histórico:
+        ├👤 User: root
+        ├💰 Saldo: 
+        ├🛒 Checker: ALLBINS MASTER-BB
+        ├🔄 Retorno: Pagamento Aprovado.
+        ├✅ Live: 5485739579583648|12|2026|844
+        └🏳️ Bin: 1
+
+Disney CHK, [10/05/2023 15:30]
+🔔 Logs do Histórico:
+ ├👤 User: root
+ ├💰 Saldo: 
+ ├🛒 Checker: ALLBINS MASTER-BB
+ ├🔄 Retorno: Pagamento Aprovado.
+ ├✅ Live: 5485739579502580|12|2026|245
+ └🏳️ Bin: 1
+
+Disney CHK, [10/05/2023 15:40]
+🔔 Logs do Histórico:
+        ├👤 User: root
+        ├💰 Saldo: 
+        ├🛒 Checker: ALLBINS MASTER-BB
+        ├🔄 Retorno: Pagamento Aprovado.
+        ├✅ Live: 5485739579548344|12|2026|066
+        └🏳️ Bin: 1
+
+Disney CHK, [10/05/2023 15:43]
+🔔 Logs do Histórico:
+        ├👤 User: root
+        ├💰 Saldo: 
+        ├🛒 Checker: ALLBINS MASTER-BB
+        ├🔄 Retorno: Pagamento Aprovado.
+        ├✅ Live: 5485739579516853|12|2026|715
+        └🏳️ Bin: 1
+
+Disney CHK, [10/05/2023 15:45]
+🔔 Logs do Histórico:
+        ├👤 User: root
+        ├💰 Saldo: 
+        ├🛒 Checker: ALLBINS MASTER-BB
+        ├🔄 Retorno: Pagamento Aprovado.
+        ├✅ Live: 5485739579578127|12|2026|523
+        └🏳️ Bin: 1

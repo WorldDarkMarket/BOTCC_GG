@@ -1,0 +1,13 @@
+{
+    "mp": {
+        "token": "APP_USR-1058011256739441-053018-b1bf381e6d7a82efbe57d868a8d67361-287603525"
+    },
+    "gn": {
+        "pix": "",
+        "client_id": "",
+        "client_secret": ""
+    },
+    "pix_key": "lucaspostorc@gmail.com",
+    "pix_type": "e-mail",
+    "pix_default": "mp"
+}
